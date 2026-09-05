@@ -8,3 +8,4 @@ Minimum Path Sum
 Linked List Cycle
 Longest Common Prefix
 Palindrome Partitioning II
+Merge Intervals
