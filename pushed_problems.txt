@@ -12,3 +12,4 @@ Merge Intervals
 Remove Duplicates from Sorted Array
 Regular Expression Matching
 Wildcard Matching
+Search Insert Position
