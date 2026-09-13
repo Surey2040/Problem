@@ -16,3 +16,4 @@ Search Insert Position
 Sum Root to Leaf Numbers
 Word Break
 3Sum
+Permutations
