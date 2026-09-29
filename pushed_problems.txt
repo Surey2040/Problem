@@ -32,3 +32,4 @@ Reverse Integer
 Remove Duplicates from Sorted List
 Combination Sum II
 3Sum Closest
+Pow(x, n)
