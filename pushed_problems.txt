@@ -43,3 +43,4 @@ Restore IP Addresses
 Gas Station
 Sudoku Solver
 Spiral Matrix II
+Next Permutation
