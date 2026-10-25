@@ -58,3 +58,4 @@ Roman to Integer
 Pascal's Triangle II
 Candy
 Zigzag Conversion
+Find the Index of the First Occurrence in a String
