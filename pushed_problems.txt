@@ -68,3 +68,4 @@ Insert Interval
 Minimum Window Substring
 Sort Colors
 Symmetric Tree
+Reorder List
