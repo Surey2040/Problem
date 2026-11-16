@@ -80,3 +80,4 @@ Valid Number
 Validate Binary Search Tree
 First Missing Positive
 Remove Element
+Valid Parentheses
