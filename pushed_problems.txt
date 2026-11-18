@@ -82,3 +82,4 @@ First Missing Positive
 Remove Element
 Valid Parentheses
 Binary Tree Zigzag Level Order Traversal
+Balanced Binary Tree
