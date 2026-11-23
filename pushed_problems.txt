@@ -87,3 +87,4 @@ Trapping Rain Water
 Clone Graph
 Surrounded Regions
 Longest Consecutive Sequence
+N-Queens
