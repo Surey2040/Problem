@@ -90,3 +90,4 @@ Longest Consecutive Sequence
 N-Queens
 Single Number II
 Same Tree
+Single Number
