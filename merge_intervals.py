@@ -8,4 +8,4 @@ def merge(intervals):
             merged[-1][1] = max(merged[-1][1], interval[1])
     return merged
 
-# Code update: 20261125060323878508
+# Code update: 20261127055021733156
